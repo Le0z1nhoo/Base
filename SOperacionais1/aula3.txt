@@ -1,0 +1,13 @@
+1 defina oque é um processador?
+
+2 diferencie de unidade logica de uma unidade aritmetica?
+
+3 oque seria um registrador?
+
+4 defina memoria principal?
+
+5 defina memoria cache?
+
+6 defina memoria secundaria?
+
+7 oque seriam dispositivos de entrada e saida?

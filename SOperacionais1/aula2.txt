@@ -1,0 +1,30 @@
+Tipos de Sistema
+=============================
+Sistema Batch;
+Envolve Dados Matematicos.
+
+Sistemas de Tempo compartilhado
+(Time-sharing) programa executados em divisao de fatia do Tempo.
+
+explique com suas palavras Sistemas fortemente acoplados?
+R: Sistemas fortemente acoplados são sistemas que todos processadores tem acesso a mesma memoria.
+
+explique com suas palavras Sistemas fracamente acoplados?
+R: Sistemas fracamente acoplados são sistemas que cada processador tem sua propria memoria.
+
+diferencie os dois Sistema acima citados?
+R: 
+    Fortemente acoplado = “vários cérebros usando o mesmo caderno”.
+    Fracamente acoplado = “cada cérebro tem seu próprio caderno e troca bilhetes pela rede”.
+
+explique oque seria um sistema com multiplosprocessadores?
+R: São sistema que possuem 2 ou mais processadores.
+
+O que seria sistema em tempo real?
+R: é um sistema que o tempo de resposta é tao importante quanto o resultado, ou seja nao basta apenas estar certo, ele precisa enviar no prazo certo
+
+o que seria sistema de Batch?
+R: é um sistema que funciona por processamento por lote.
+
+oq seria sistemas de tempo compartilhado?
+R: são sistemas que são executados em divisao de fatia de tempo

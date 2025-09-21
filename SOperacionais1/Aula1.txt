@@ -1,0 +1,20 @@
+MSCONFIG para configurar nucleos no windows
+===================================
+Maquina de Niveis
+1 nivel: Hardware.
+2 nivel: S.O = Linux, windows etc.
+3 nivel: S.A = Sistema de apps.
+4 nivel: Anta = Bios.
+===================================
+Tipos de S.O:
+Monoprogramaveis/monotarefas = realiza uma tarefa por vez
+Multiprogramaveis/multitarefas = 
+===================================
+S.O ordem de Processamento.
+     Entrada
+        |
+    Processamento
+        |
+      Saida
+===================================
+Sistema espera o usuario para finalizar o Processamento

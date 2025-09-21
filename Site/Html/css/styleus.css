@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 25px;
+}
+
+body {
+    background: #f9f9f9;
+    color: #222;
+}
+
+main {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+h2 {
+    text-align: center;
+    color: #c62828;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+p { text-align: justify; margin-bottom: 20px; }
+
+ul { list-style: none; padding: 0; }
+
+header {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+header h1 { color: red; }
+
+header ul li {
+    display: inline-block;
+    margin: 10px 13px;
+}
+
+header ul li a,
+ol li a {
+    text-decoration: none;
+    color: #000;
+}
+#Usuarios{
+    border-radius: 12px;
+    box-shadow: 0 2px 6px #0001;
+    background-color: #fff;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+#Usuarios img{
+    width: 200px;
+    display: flex;
+}
+#Akumas {
+    background: #fff;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px #0001;
+    text-align: center;
+    margin-bottom: 30px;
+    transition: transform 0.3s;
+}
+#Akumas:hover { transform: scale(1.03); }
+
+.artigo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.coluna:hover{
+    transform: scale(1.03);
+}
+.coluna1:hover{
+    transform: scale(1.03);
+}
+.coluna2:hover{
+    transform: scale(1.03);
+}
+
+.coluna, .coluna1, .coluna2 {
+    background: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,.1);
+    width: 300px;
+    text-align: center;
+}
+
+.coluna a {
+    color: black;
+    text-decoration: none;
+}
+.coluna, .coluna1,.coluna2, ol{
+    list-style: none;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    transition: transform 0.3s;
+}
+.card:hover { transform: scale(1.03); }
+.card img { max-width: 400px; border-radius: 8px; margin-bottom: 15px; }
+
+.titulo-personagem {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #3f51b5;
+}
+
+.container { max-width: 900px; margin: 0 auto; }
+
+.container-bloco {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.bloco, .imagem {
+    border-radius: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+.site-footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+  border-top: 2px solid #ff2e2e;
+}
+
+.site-footer p {
+  margin: 5px;
+}
+
+.site-footer .nota {
+  color: #ff2e2e;
+}
